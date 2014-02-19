@@ -9,7 +9,10 @@ INSTALLATION:
 sudo apt-get install libncurses5-dev
 
 
-TO RUN:
+TO Compile:
   gcc curses.c -lncurses
+
+TO Run:
+  ./a.out
 
 PS - Use F4 to quit program.
